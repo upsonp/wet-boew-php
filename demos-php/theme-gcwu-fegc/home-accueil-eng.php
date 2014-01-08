@@ -30,6 +30,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . $_SITE['wb_php_dist_folder'] . "/inc/he
 <?php 
 include_once $_SERVER['DOCUMENT_ROOT'] . $_SITE['wb_php_dist_folder'] . "/inc/head-css.php"; 
 ?>
+
 <!-- CustomCSSStart -->
 <style>
 .gcwu-minister-in{background:#eee url(images/bg-minister-bottom.gif) no-repeat right bottom;}
@@ -39,6 +40,7 @@ include_once $_SERVER['DOCUMENT_ROOT'] . $_SITE['wb_php_dist_folder'] . "/inc/he
 #gcwu-video div.background-dark{background:#eee !important;color:#000;padding-bottom:10px;}
 </style>
 <!-- CustomCSSEnd -->
+
 <?php 
 include_once $_SERVER['DOCUMENT_ROOT'] . $_SITE['wb_php_dist_folder'] . "/inc/head-nav.php";
 ?>

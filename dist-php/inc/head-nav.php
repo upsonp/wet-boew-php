@@ -103,4 +103,13 @@ echo $_TITLE_;
 	if( file_exists($_HEAD_END_) ) {
 		include_once $_HEAD_END_;
 	}
+	
+	// Archived Section
+	if( $_PAGE['isarchived'] == "1" ){
+		echo "<p><img src='".$_SITE['wb_archive_warn_icon']."' alt='".$_SITE['wb_archive_warn_alt_'.$_PAGE['lang1']];
+		echo "' title='".$_SITE['wb_archive_warn_title_'.$_PAGE['lang1']]."' class='margin-bottom-none' />".$_SITE['wb_archive_warn_webuse_'.$_PAGE['lang1']];
+		echo "</p><div id='archived' class='wet-boew-archived span-6' data-load='archived'>";
+		echo "<section><h2>".$_SITE['wb_archive_warn_head_'.$_PAGE['lang1']]."</h2>";
+		echo "<p>".$_SITE['wb_archive_warn_msg_'.$_PAGE['lang1']]."</p></section></div><div class='clear'></div>";
+	}
 ?>

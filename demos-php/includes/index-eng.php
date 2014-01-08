@@ -24,15 +24,22 @@
 		<tr>
 			<td><a href="theme-wet-boew/index-eng.php">WET theme (v3.1)</a></td>
 			<td><a href="https://github.com/wet-boew/wet-boew/wiki/Themes-and-style">Theme and style</a></td>
-			<td>The WET theme was developed to provide an example implementation of the <a href="http://wet-boew.github.com/wet-boew/demos/theme-base/index-eng.html">Base Theme</a>.</td>
+			<td>The WET theme was developed to provide an example implementation of the <a href="http://wet-boew.github.io/wet-boew/demos/theme-base/index-eng.html">Base Theme</a>.</td>
 			<td></td>
 		</tr>
+		<tr>
+			<td><a href="theme-ogpl/index-eng.php">OGPL theme (v3.1.2)</a></td>
+			<td><a href="https://github.com/wet-boew/wet-boew/wiki/Themes-and-style">Theme and style</a></td>
+			<td>The OGPL theme was developed to support the <a href="http://ogpl.github.io/index-en.html">Open Government Platform (OGPL)</a>.</td>
+			<td></td>
+		</tr>		
 		<tr>
 			<td><a href="theme-gcwu-intranet/index-eng.php">GC Intranet usability theme (v3.1)</a></td>
 			<td><a href="https://github.com/wet-boew/wet-boew/wiki/Themes-and-Style">Theme and style</a></td>
 			<td>The GC Intranet usability theme was developed to comply with the <a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=24227">Standard on Web Usability</a> and is recommended for use with all Government of Canada intranet sites.</td>
 			<td></td>
 		</tr>
+		
 	</tbody>
 </table>
 </div>
